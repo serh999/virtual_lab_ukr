@@ -18,7 +18,7 @@ var solutions = {
                           },
                           {
                             "id": 5,
-                            "amount": 0.2
+                            "amount": 0.1
                           }
                         ]
                     },
