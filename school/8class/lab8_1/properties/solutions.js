@@ -5,13 +5,6 @@ var solutions = {
                 "name": "stockroom",
                 "SOLUTION": [
                     {
-                        "name": "H<sub>2</sub>O",
-                        "description": "Дистильована вода",
-                        "volume": 1.0,
-                        "vessel": "3LCarboy",
-                        "species": [{ "id": 0 }]
-                    },
-                    {
                         "name": "CaCO<sub>3</sub>",
                         "description": "Кальцій карбонат",
                         "vessel": "SolidBottle",
