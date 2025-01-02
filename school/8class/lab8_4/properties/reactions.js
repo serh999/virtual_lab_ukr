@@ -10,6 +10,13 @@ var reactions = {
             },
             {
                 "SPECIES_REF": [
+                    { "id": 7, "coefficient": -1 }, // Na2CO3
+                    { "id": 4, "coefficient": 2 }, // Na +
+                    { "id": 5, "coefficient": 1 } // CO3 2-
+                ]
+            },
+            {
+                "SPECIES_REF": [
                     { "id": 5, "coefficient": -1 }, // CO3 2-
                     { "id": 1, "coefficient": -2 }, // H +
                     { "id": 6, "coefficient": 1 }, // CO2
