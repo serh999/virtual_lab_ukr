@@ -50,6 +50,19 @@ var species = {
                 "enthalpy": -393.5,
                 "entropy": 213.8,
                 "molecularWeight": 44.01
+            },
+            {
+                "id": 7,
+                "name": "Na<sub>2</sub>CO<sub>3</sub>",
+                "enthalpy": -1130.9,
+                "entropy": 135.0,
+                "state": "s",
+                "hue": 180,
+                "saturation": 0,
+                "value": 100,
+                "colorConcentration": .03,
+                "molecularWeight": 105.99,
+                "density": 2.54
             }
         ]
     }
