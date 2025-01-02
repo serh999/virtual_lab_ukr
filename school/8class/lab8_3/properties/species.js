@@ -59,7 +59,7 @@ var species = {
                 "state": "s",
                 "hue": 180,
                 "saturation": 0,
-                "value": 85,
+                "value": 95,
                 "colorConcentration": .03,
                 "molecularWeight": 143.32,
                 "density": 5.56
