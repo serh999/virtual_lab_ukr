@@ -14,10 +14,10 @@ var solutions = {
                           },
                           {
                             "id": 4,
-                            "amount": 0.1
+                            "amount": 0.2
                           },
                           {
-                            "id": 3,
+                            "id": 5,
                             "amount": 0.2
                           }
                         ]
@@ -31,11 +31,11 @@ var solutions = {
                             "id": 0
                           },
                           {
-                            "id": 5,
+                            "id": 1,
                             "amount": 0.1
                           },
                           {
-                            "id": 6,
+                            "id": 3,
                             "amount": 0.1
                           }
                         ]
