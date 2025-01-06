@@ -44,27 +44,13 @@ var species = {
             },
             {
                 "id": 5,
-                "name": "H<sub>2</sub>CO<sub>3</sub>",
-                "enthalpy": -669.65,
-                "entropy": 187.4,
-                "molecularWeight": 62.026
-            },
-            {
-                "id": 6,
-                "name": "HCO<sub>3</sub><sup>-</sup>",
-                "enthalpy": -691.99,
-                "entropy": -9.130028584898714,
-                "molecularWeight": 61.018
-            },
-            {
-                "id": 7,
                 "name": "CO<sub>3</sub><sup>2-</sup>",
                 "enthalpy": -677.14,
                 "entropy": -156.8741463912882,
                 "molecularWeight": 60.01
             },
             {
-                "id": 8,
+                "id": 6,
                 "name": "Ca(OH)<sub>2</sub>",
                 "enthalpy": -986.09,
                 "entropy": 82.17421041676131,
@@ -76,14 +62,14 @@ var species = {
                 "molecularWeight": 58.32
             },
             {
-                "id": 9,
+                "id": 7,
                 "name": "Ca<sup>2+</sup>",
                 "enthalpy": -542.83,
                 "entropy": -53.1,
                 "molecularWeight": 40.08
             },
             {
-                "id": 10,
+                "id": 8,
                 "name": "CO<sub>2</sub>",
                 "enthalpy": -393.5,
                 "entropy": 213.8,
