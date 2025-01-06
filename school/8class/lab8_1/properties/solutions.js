@@ -11,7 +11,7 @@ var solutions = {
                         "species": [
                             {
                             "id": 4,
-                            "amount": 0.05
+                            "amount": 0.04995504
                             }
                         ]
                     },
