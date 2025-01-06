@@ -36,14 +36,14 @@ var solutions = {
                       {
                         "name": "Ca(OH)<sub>2</sub>",
                         "description": "Кальцій гідроксид",
-                        "volume": "0.2",
+                        "volume": "0.15",
                         "species": [
                           {
                             "id": 0
                           },
                           {
-                            "id": 8,
-                            "amount": 0.05
+                            "id": 6,
+                            "amount": 0.051
                           }
                         ]
                       }
