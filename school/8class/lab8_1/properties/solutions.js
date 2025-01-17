@@ -36,7 +36,7 @@ var solutions = {
                       {
                         "name": "Ca(OH)<sub>2</sub>",
                         "description": "Кальцій гідроксид",
-                        "volume": "0.15",
+                        "volume": "0.19859",
                         "species": [
                           {
                             "id": 0
